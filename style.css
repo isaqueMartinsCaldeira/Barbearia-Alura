@@ -6,8 +6,16 @@ body {
     width: 100%;
 }
 
-h1  {
+.principal {
+    background: #cccccc;
+}
+
+.titulo-centralizado {
     text-align: center
+}
+
+.titulo-principal {
+    padding-left: 20px;
 }
 
 p{
@@ -24,4 +32,17 @@ em strong{
 
 .itens{
     font-style: italic;
+}
+
+.beneficios {
+    background: #ffffff;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
